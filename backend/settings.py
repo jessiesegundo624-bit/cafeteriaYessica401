@@ -17,7 +17,7 @@ SECRET_KEY = 'django-insecure-*&$0ozke*(=4uj^&4%_q64njmghxzl^k=-gx*=xpkt@#d+_omq
 DEBUG = True
 
 # Permitir acceso desde la red local (desarrollo)
-ALLOWED_HOSTS = ["https://cafeteriayessica401-1.onrender.com"]
+ALLOWED_HOSTS = ["cafeteriayessica401-1.onrender.com"]
 
 
 # Application definition
